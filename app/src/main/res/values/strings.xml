@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SchedaStudenti_Menga_606362</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="findTextView">Cerca</string>
+    <string name="title_activity_data_view">Data_view</string>
+    <string name="title_activity_add_student">addStudent</string>
+    <string name="nameTextView">Nome</string>
+    <string name="surnameTextView">Cognome</string>
+    <string name="birthTextView">Data nascita</string>
+    <string name="sexTextView">Sesso</string>
+    <string name="sexToggleOn">Femmina</string>
+    <string name="sexToggleOff">Maschio</string>
+    <string name="examTextView">Esami</string>
+    <string name="ratingTextView">Rating</string>
+    <string name="numberTextView">Recapiti</string>
+    <string name="addNumberButton">+</string>
+    <string name="removeNumberButton">-</string>
+    <string name="cancelButton">Annulla</string>
+    <string name="okButton">OK</string>
+    <string name="emptyNumberEditText">Inserisci un numero</string>
+    <string name="emptyField">Riempi tutti i campi richiesti</string>
+    <string name="addStudentButton">Aggiungi</string>
+    <string name="dataTextViewFemale">Dati Studentessa:</string>
+    <string name="dataTextViewMale">Dati Studente:</string>
+    <plurals name="number">
+        <item quantity="one">Recapito:</item>
+        <item quantity="other">Recapiti:</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="one">1 anno</item>
+        <item quantity="other">%d anni</item>
+    </plurals>
+    <plurals name="exam">
+        <item quantity="one">Esame fatto: 1</item>
+        <item quantity="other">Esami fatti: %d</item>
+    </plurals>
+</resources>
